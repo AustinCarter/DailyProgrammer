@@ -212,6 +212,7 @@ Building[][] populateVisible(Building grid[][], int n)
 	populateSouthEast(grid[][], n, 0, 0, 0);
 	populateNorthWest( grid[][],n, n, n,0 );
 
+	//save me momma I have sinner
 
 
 }
